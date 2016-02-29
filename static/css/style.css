@@ -1,0 +1,103 @@
+body {
+  background: #FFFAF0 url(/img/bodys.jpg);
+}
+
+h1 {
+  font-family: arial, helvetica, serif, sans-serif;
+  font-size: 18pt;
+  margin: 2pt 2pt;
+  padding: 1pt 1pt;
+  text-decoration: none;
+  color: navy;
+}
+
+h2 {
+  font-family: arial, helvetica, serif, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  color: navy;
+  margin: 0;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: arial, helvetica, serif, sans-serif;
+  font-size: 16px;
+  margin: 2pt 2pt;
+  padding: 1pt 1pt;
+  text-decoration: none;
+  color: navy;
+}
+
+ul {
+  list-style-position: outside;
+  margin-left: 10pt;
+  padding-left: 7px;
+}
+
+li {
+  margin-bottom: 2px;
+  margin-left: 0;
+  padding-left: 5px;
+  text-indent: 2px;
+  vertical-align: middle;
+  font-family: arial, helvetica, serif, sans-serif;
+  font-size: 10pt;
+}
+
+p {
+  font-family: arial, helvetica, serif;
+  font-size: 10pt;
+  text-align: left;
+  margin: 0;
+}
+
+cite {
+  color: Navy;
+  font: 10pt arial, helvetica, serif, sans-serif bold;
+}
+
+a {
+  font-family: arial, helvetica, serif, sans-serif;
+  font-size: 10pt;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #000080;
+}
+
+a:hover {
+  background: #66CCFF;
+  color: #000080;
+}
+
+a:active {
+  color: #800000;
+}
+
+a.mn {
+  color: Blue;
+  font-family: arial, helvetica, serif, sans-serif;
+  font-size: 9pt;
+  text-decoration: underline;
+  margin-top: 6pt;
+}
+
+a.mn:visited {
+  color: #000080;
+}
+
+a.mn:hover {
+  color: Red;
+}
+
+a.mn:active {
+  color: #800000;
+}
+
+p.menu {
+  text-align: left;
+  margin-bottom: 3pt;
+  font-weight: bold;
+}
