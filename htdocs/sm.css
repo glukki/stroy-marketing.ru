@@ -1,0 +1,101 @@
+a {
+	font-family: arial,helvetica, serif, sans-serif;
+	font-size: 12pt;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000080;
+	font-size: 12pt;
+	text-decoration: none;
+}
+
+a:hover {
+	background: #66CCFF;
+	color: #000080;
+	font-size: 12pt;
+	text-decoration: none;
+}
+
+a:active {
+	color: #800000;
+	font-size: 12pt;
+	text-decoration: none;
+}
+
+
+
+h1 {
+	font-family: arial,helvetica, serif, sans-serif;
+	font-size: 20pt;
+	margin: 2pt 2pt;
+	padding: 1pt 1pt;
+	text-decoration: none;
+	color: navy;
+	font: normal;
+}
+
+
+h2 {
+	font-family: arial,helvetica, serif, sans-serif;
+	font-size: 18px;
+	margin: 2pt 2pt;
+	padding: 1pt 1pt;
+	text-decoration: none;
+	color: navy;
+	font: normal;
+}
+
+h3 {
+	font-family: arial,helvetica, serif, sans-serif;
+	font-size: 16px;
+	margin: 2pt 2pt;
+	padding: 1pt 1pt;
+	text-decoration: none;
+	color: navy;
+	font: normal;
+}
+
+
+body {
+	background-color: #FFFAF0;
+	background : url(image/bodys.jpg);
+}
+
+cite{
+	color: #000080;
+	font: 12pt arial,helvetica,serif,sans-serif bold;
+	}
+
+li {
+	margin-bottom: 2px;
+	margin-left: 0px;
+	padding-left: 5px;
+	text-indent: 2px;
+	vertical-align: middle;
+	font-family: arial,helvetica, serif, sans-serif;
+}
+
+p{
+	font-family: arial,helvetica;
+	font-size: 12pt;
+	text-align: left;
+}
+
+
+
+ul {
+	list-style-image: url(image/05bule.gif);
+	list-style-position: outside;
+	margin-left: 12pt;
+	padding-left: 7px;
+}
+
+p.menu {
+	font-size : 10pt;
+	font-weight : bold;
+	text-align : left;
+	padding-left : 10pt;
+}
+
+
