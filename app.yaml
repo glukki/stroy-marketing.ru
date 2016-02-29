@@ -1,0 +1,32 @@
+application: stroymarketingapp
+version: main
+runtime: php55
+api_version: 1
+threadsafe: true
+
+default_expiration: "1h"
+
+handlers:
+- url: /
+  script: pages/index.php
+
+- url: /(.+\.php)$
+  script: pages/\1
+
+- url: /img
+  static_dir: static/img
+
+- url: /css
+  static_dir: static/css
+
+- url: /js
+  static_dir: static/js
+
+- url: /docs
+  static_dir: static/docs
+
+- url: /.*
+  script: pages/error404.php
+
+error_handlers:
+  - file: static/error.html
