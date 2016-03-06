@@ -1,0 +1,14 @@
+{
+  "name": "stroymarketingapp",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "publish": "appcfg.py update ./ -v"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^0.11.3"
+  }
+}

@@ -34,3 +34,13 @@ handlers:
 
 error_handlers:
   - file: static/error.html
+
+skip_files:
+- ^(.*/)?#.*#$
+- ^(.*/)?.*~$
+- ^(.*/)?.*\.py[co]$
+- ^(.*/)?.*/RCS/.*$
+- ^(.*/)?\..*$
+- ^package.json$
+- ^README.md$
+- ^node_modules/
