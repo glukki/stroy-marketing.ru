@@ -1,3 +1,4 @@
+<?php include("../inc/redirect.php"); ?>
 <?php header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found"); ?>
 <!DOCTYPE html>
 <html lang="ru">
