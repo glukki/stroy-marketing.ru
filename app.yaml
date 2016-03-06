@@ -13,6 +13,10 @@ handlers:
 - url: /(.+\.php)$
   script: pages/\1
 
+- url: /((robots|sitemap).txt)$
+  static_files: static/\1
+  upload: static/(robots|sitemap).txt$
+
 - url: /img
   static_dir: static/img
 
