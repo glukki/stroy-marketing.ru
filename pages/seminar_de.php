@@ -4,7 +4,7 @@
 <title>XVI INTERNATIONALES SEMINAR NATURSTEINE UND HANDEL</title>
 <meta name="description" content="XVI INTERNATIONALES SEMINAR NATURSTEINE UND HANDEL">
 <meta name="keywords" content="XVI INTERNATIONALES SEMINAR NATURSTEINE UND HANDEL">
-	
+
 <?php include("../inc/header.php"); ?>
 
 <h2>XVI INTERNATIONALES SEMINAR NATURSTEINE UND HANDEL</h2>
@@ -85,7 +85,7 @@ Der Seminarverlauf wird in russischen Zeitschriften Naturstein und Business, Geg
 <p>Hotel Europa*****         €  320</p>
 <p>Hotel Moskwa***	       €  100</p>
 <p>Hotel Oktjabrskaja***     €   90</p>
-<p>Hotel Corinthia Nevskij 
+<p>Hotel Corinthia Nevskij
 Palace*****		 €  420</p>
 
 <p>Im Anmeldeschreiben mochten Sie folgende Angaben mitteilen:</p>

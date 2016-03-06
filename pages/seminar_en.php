@@ -46,7 +46,7 @@
 </ul>
 
 <p>&nbsp;</p>
-	
+
 <p><strong>The seminar will be opened on 16 March at 10.00 a.m.</strong>
 The venue of the seminar - Hotel Corintia Nevskij Palace (Saint-Petersburg, Nevskij prospect, 57). There is a restaurant and a bar.</p>
 <p>The work of the seminar will be organized in the following way:</p>
@@ -75,7 +75,7 @@ The work of the seminar will be reported by Russian journals : "Stone and Busine
 
 <p>&nbsp;</p>
 
-<p>Official invitations will be sent to foreign participants. 
+<p>Official invitations will be sent to foreign participants.
 Hotel reservations can be made. The prices of single and double rooms per night are respectively:</p>
 
 <ul>

@@ -90,7 +90,7 @@ Secondo gli interessi dei partecipanti saranno organizzate le visite:
 (e'necessario per la preparazione degli inviti ufficiali).</p>
 <p>2. Comunichino un titolo della Sua relazione al seminario (con durata che non superi 15 min)ed anche una necessita' del videoregistratore oppure di un proettore per diapositive. </p>
 <p>3.All'inizio di giugno ci comunichino il giorno del Suo arrivo a San Pietroburgo (per la prenotazione dell'albergo);
-4. Pagamento per la partecipazione al seminario verra' fatto о mezzo conto corrente della ditta Stroy-Marketing oppure in contanti a San Pietroburgo in somma pari a 450 euro. 
+4. Pagamento per la partecipazione al seminario verra' fatto о mezzo conto corrente della ditta Stroy-Marketing oppure in contanti a San Pietroburgo in somma pari a 450 euro.
 Nella   somma   riportata   sono   incluse   le   spese   riguardanti   le   trattative,   i   materiali
 d'informazione, servizi degli interpreti ed un furshet.</p>
 
@@ -102,18 +102,18 @@ d'informazione, servizi degli interpreti ed un furshet.</p>
                              <p>E-mail: office@stroy-marketing.ru</p>
 <p>Corrispondenza postale: Russia, 190005, San Pietroburgo.P.O. Box 32. Stroy-Marketing.</p>
 
-    
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <p><a href="/docs/inf_letter_it.doc">Download programm ХVI SEMINARIO PRATICO INTERNAZIONALE "COMMERCIO DELLA PIETRA NATURALE" (format Microsoft Word )</a></p>
- 
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <p> Cogliamo l'occasione per porgerLe i nostri piu distinti saluti ed arrivederci a San Pietroburgo </p>
 <p>Alexandr Mescianinov</p>
 <p>Presidente Associazione La Pietra Naturale Nazionale,</p>
-<p>direttore della ditta Stroy-Marketing</p> 
+<p>direttore della ditta Stroy-Marketing</p>
 
 <?php include("../inc/footer.php"); ?>

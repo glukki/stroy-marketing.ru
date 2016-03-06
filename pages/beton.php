@@ -25,7 +25,7 @@
 <p><strong>Характеристики пенобетона:</strong></p>
 <ul>
 	<li>Масса - 0,4 &divide; 1,6 т/м<sup>3</sup></li>
-	<li>Твердость (28 суток) 1&divide;20 N/мм<sup>2</sup></li> 
+	<li>Твердость (28 суток) 1&divide;20 N/мм<sup>2</sup></li>
 </ul>
 <p><strong>Изделия из пенобетона</strong></p>
 <ul>
