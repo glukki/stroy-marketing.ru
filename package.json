@@ -9,6 +9,6 @@
   "license": "",
   "dependencies": {},
   "devDependencies": {
-    "husky": "^0.13.2"
+    "husky": "^0.14.3"
   }
 }
